@@ -1,0 +1,33 @@
+body{
+    background:grey;
+    margin:0;
+}
+header{
+    background: white;
+    padding:10px;
+}
+header h1{
+margin:0;
+}
+.post img{
+    width:100%;
+}
+.post{
+    background: white;
+}
+.post-header{
+    display:flex;
+    justify-content: space-between;
+}
+.fecha{    
+    padding: 10px;
+    text-align: right;
+    color:gray;     
+}
+.post h2, .post p{
+    padding:5px;
+}
+.container{
+    width:600px;
+    margin:auto;    
+}
